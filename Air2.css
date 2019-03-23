@@ -12,3 +12,14 @@ body{
     background-repeat: no-repeat;
     background-size:cover;
 }
+p:hover{
+     cursor:url(cloud.cur),auto;
+}
+
+h3:hover{
+     cursor:url(weather.cur),auto;
+}
+h1:hover{
+     cursor:url(sun.cur),auto;
+
+}

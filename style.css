@@ -81,6 +81,7 @@ footer .row {
      background-repeat:no-repeat;
      background-size:1500px;
      text-align:center;
+     
 }
 
 .hero {
@@ -91,7 +92,7 @@ footer .row {
 }
 
 #firepage {
-     background-image:url("https://media.giphy.com/media/nrXif9YExO9EI/giphy.gif");
+     background-image:url("https://thumbs.gfycat.com/FrenchSlowKinglet-size_restricted.gif");
      background-repeat:no-repeat;
      background-size:1500px;   
 }
@@ -101,6 +102,7 @@ footer .row {
     width:122px;
 }
 #airpage{
+    text-align:center;
     background-image:url("https://media0.giphy.com/media/PIh4laWJlz9bq/giphy.gif");
     background-repeat:no-repeat;
     background-size:1000px;
@@ -127,23 +129,33 @@ footer .row {
     display:flex;
     justify-content:center;
     text-decoration:underline;
+    
 }
 .hero{
     color:blue;
     font-weight:bold;
+    cursor:url(hero.cur),auto;
 }
 #firepage2{
     background-color:#b30000;
+    cursor:url(forest.cur),auto;
 }
 
 #landpage2{
     color:black;
-    
     background-image:linear-gradient(#00ff77,green,brown);
+     cursor:url(insect.cur),auto;
+}
+#waterpage2{
+    color:black;
+    background-image:linear-gradient(#42aaf4,blue);
+    cursor:url(duck.cur),auto;
 }
 
 .water2header{
     display:flex;
     justify-content:center;
+   
 }
+
 
