@@ -1,0 +1,14 @@
+h3{
+    font-family: 'Titan One', cursive;
+}
+p{
+    font-family: 'Itim', cursive;
+}
+body{
+   
+    background:url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
