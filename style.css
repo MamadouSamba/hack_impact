@@ -81,7 +81,7 @@ footer .row {
      background-repeat:no-repeat;
      background-size:1500px;
      text-align:center;
-     
+     cursor:url(landsun.cur),auto;
 }
 
 .hero {
@@ -94,7 +94,8 @@ footer .row {
 #firepage {
      background-image:url("https://thumbs.gfycat.com/FrenchSlowKinglet-size_restricted.gif");
      background-repeat:no-repeat;
-     background-size:1500px;   
+     background-size:1500px;  
+     cursor:url(burn.cur),auto;
 }
 
 .fireHero {
@@ -157,5 +158,10 @@ footer .row {
     justify-content:center;
    
 }
-
-
+#return{
+    color:black;
+}
+#superHeroImg{
+   width:150px; 
+   height:150px;
+}
