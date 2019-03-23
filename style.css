@@ -1,167 +1,144 @@
-#Homepage{
- background-color:#f4651d;
-
+#Homepage {
+	background-color: #f4651d;
 }
-#waterpage{
-    background-image: url("http://66.media.tumblr.com/tumblr_m8fcjpKNUo1rbg764o1_250.gif");
-    background-repeat:no-repeat;
-    background-size:1500px;
-    text-align: center;
-    
-     
+#waterpage {
+	background-image: url("http://66.media.tumblr.com/tumblr_m8fcjpKNUo1rbg764o1_250.gif");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	text-align: center;
 }
-h5{
-    font-family:italic;
-    display:flex;
-    justify-content:center;
-    font-size:20px;
+h5 {
+	font-family: italic;
+	display: flex;
+	justify-content: center;
+	font-size: 20px;
 }
-#header{
-    color: #2BC016;
-    display:flex;
-    justify-content:center;
-    font-family:italic;
+#header {
+	color: #2BC016;
+	display: flex;
+	justify-content: center;
+	font-family: italic;
 }
-#sub-header{
-	color:#387D7A;
+#sub-header {
+	color: #387D7A;
 }
-
-#input-group { 
-    width: 500px;
-    margin-top: 45px;
-    margin-left: 450px;
-} 
-
-.input-group-text { 
-     margin-bottom: 30px;
-} 
-
-.input-text { 
-      margin-bottom: 10px; 
-      padding: 10px;
-} 
-
-#submit-btn { 
-    margin-left: 450px;  
-    margin-top: 10px;
-} 
-
-
+#input-group {
+	width: 500px;
+	margin-top: 45px;
+	margin-left: 450px;
+}
+.input-group-text {
+	margin-bottom: 30px;
+}
+.input-text {
+	margin-bottom: 10px;
+	padding: 10px;
+}
+#submit-btn {
+	margin-left: 450px;
+	margin-top: 10px;
+}
 footer {
 	font-size: 12px;
 	padding: 30px 0;
 	margin-top: 80px;
 	background-color: #101010;
 }
-
 footer .col-sm-8 {
 	display: flex;
 	justify-content: flex-end;
 }
-
 footer ul {
 	list-style: none;
 }
-
 footer li img {
 	width: 32px;
 	height: 32px;
 }
-
 footer .col-sm-4 {
 	color: #FFF;
 }
-
 footer .row {
 	display: flex;
 	align-items: center;
 }
-#landpage{
-     background-image:url("https://media.giphy.com/media/l41lRbkSHmC2jXUDm/giphy.gif");
-     background-repeat:no-repeat;
-     background-size:1500px;
-     text-align:center;
-     cursor:url(landsun.cur),auto;
+#landpage {
+	background-image: url("https://media.giphy.com/media/l41lRbkSHmC2jXUDm/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	text-align: center;
+	cursor: url(landsun.cur), auto;
 }
-
 .hero {
-     background:transparent;   
-     border:transparent;
-     font-size:30px;
-     color: #00ff77;
+	background: transparent;
+	border: transparent;
+	font-size: 30px;
+	color: #00ff77;
 }
-
 #firepage {
-     background-image:url("https://thumbs.gfycat.com/FrenchSlowKinglet-size_restricted.gif");
-     background-repeat:no-repeat;
-     background-size:1500px;  
-     cursor:url(burn.cur),auto;
+	background-image: url("https://thumbs.gfycat.com/FrenchSlowKinglet-size_restricted.gif");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	cursor: url(burn.cur), auto;
 }
-
 .fireHero {
-    height:100px;
-    width:122px;
+	height: 100px;
+	width: 122px;
 }
-#airpage{
-    text-align:center;
-    background-image:url("https://media0.giphy.com/media/PIh4laWJlz9bq/giphy.gif");
-    background-repeat:no-repeat;
-    background-size:1000px;
-    background-size:cover;
+#airpage {
+	text-align: center;
+	background-image: url("https://media0.giphy.com/media/PIh4laWJlz9bq/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: 1000px;
+	background-size: cover;
 }
-
-.earth{
-    width:200px;
-    height:200px;
-    margin-left: 600px;
+.earth {
+	width: 200px;
+	height: 200px;
+	margin-left: 600px;
 }
-
-.waterheader{
-    display:flex;
-    justify-content:center;
-    color:#2E9EBA;
+.waterheader {
+	display: flex;
+	justify-content: center;
+	color: #2E9EBA;
 }
-.line{
-    display:flex;
-    justify-content:space-between;
+.line {
+	display: flex;
+	justify-content: space-between;
 }
-#flame{
-    font-weight:bold;
-    display:flex;
-    justify-content:center;
-    text-decoration:underline;
-    
+#flame {
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	text-decoration: underline;
 }
-.hero{
-    color:blue;
-    font-weight:bold;
-    cursor:url(hero.cur),auto;
+.hero {
+	color: blue;
+	font-weight: bold;
+	cursor: url(hero.cur), auto;
 }
-#firepage2{
-    background-color:#b30000;
-    cursor:url(forest.cur),auto;
+#firepage2 {
+	background-color: #b30000;
+	cursor: url(forest.cur), auto;
 }
-
-#landpage2{
-    color:black;
-    background-image:linear-gradient(#00ff77,green,brown);
-     cursor:url(insect.cur),auto;
+#landpage2 {
+	color: black;
+	background-image: linear-gradient(#00ff77, green, brown);
+	cursor: url(insect.cur), auto;
 }
-#waterpage2{
-    color:black;
-    background-image:linear-gradient(#42aaf4,blue);
-    cursor:url(duck.cur),auto;
+#waterpage2 {
+	color: black;
+	background-image: linear-gradient(#42aaf4, blue);
+	cursor: url(duck.cur), auto;
 }
-
-.water2header{
-    display:flex;
-    justify-content:center;
-   
+.water2header {
+	display: flex;
+	justify-content: center;
 }
-#return{
-    color:black;
+#return {
+	color: black;
 }
-#superHeroImg{
-   width:150px; 
-   height:150px;
+#superHeroImg {
+	width: 150px;
+	height: 150px;
 }

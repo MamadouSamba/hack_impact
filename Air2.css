@@ -1,29 +1,26 @@
-h3{
-    font-family: 'Titan One', cursive;
+h3 {
+	font-family: 'Titan One', cursive;
 }
-p{
-    font-family: 'Itim', cursive;
+p {
+	font-family: 'Itim', cursive;
 }
-body{
-   
-    background:url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
+body {
+	background: url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
-p:hover{
-     cursor:url(cloud.cur),auto;
+p:hover {
+	cursor: url(cloud.cur), auto;
 }
-
-h3:hover{
-     cursor:url(weather.cur),auto;
+h3:hover {
+	cursor: url(weather.cur), auto;
 }
-h1:hover{
-     cursor:url(sun.cur),auto;
-
+h1:hover {
+	cursor: url(sun.cur), auto;
 }
-#superHeroImg{
-   width:200px; 
-   height:200px;
+#superHeroImg {
+	width: 200px;
+	height: 200px;
 }
